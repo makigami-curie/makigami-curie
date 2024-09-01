@@ -1,0 +1,6 @@
+#!/bin/bash
+
+plik=aa
+
+python ./make_dane_json_1.py >$plik
+sed "s/'/\"/g" -i $plik

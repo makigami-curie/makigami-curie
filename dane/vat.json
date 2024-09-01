@@ -1,0 +1,64 @@
+{
+  "invoiceNumber": "FV-000-000-0",
+  "currency": "PLN",
+  "proforma": false,
+  "dateOfReceipt": "2018-02-10", 
+  "invoiceIssueDate": "2018-02-04",
+  "saleDate": "2018-02-04",
+  "paymentDate": "2018-02-04",
+  "buyerName": "Nazwa kupującego",
+  "buyerCity": "Warszawa",
+  "buyerStreet": "Al. Jana Pawła II 29",
+  "buyerPostalCode": "01-312",
+  "buyerTaxCode": "000-000-00-00",
+  "sellerName": "Nazwa sprzedającego",
+  "sellerCity": "Warszawa",
+  "sellerStreet": "Marszałkowska 13",
+  "sellerPostalCode": "00-642",
+  "sellerTaxCode": "000-000-00-00",
+  "products": [
+    {
+      "name": "Komputer",
+      "unit": "Szt",
+      "quantity": "2",
+      "unitNetPrice": 3001.29,
+      "netPrice": 6002.58,
+      "vat": 0.23,
+      "vatAmount": 1380.59,
+      "grossPrice": 7383.17
+    },
+    {
+      "name": "Biurko",
+      "unit": "Szt",
+      "quantity": "2",
+      "unitNetPrice": 1200.0,
+      "netPrice": 2400.0,
+      "vat": 0.23,
+      "vatAmount": 276.0,
+      "grossPrice": 2676.0
+    },
+    {
+      "name": "Materiały szkoleniowe",
+      "unit": "Szt",
+      "quantity": "6",
+      "unitNetPrice": 100.0,
+      "netPrice": 600.0,
+      "vat": 0.08,
+      "vatAmount": 48.0,
+      "grossPrice": 648.0
+    }
+  ],
+  "totalAmount": 10059.17,
+  "tax": [
+    {
+      "vat": 0.23,
+      "netAmount": 8402.58,
+      "vatAmount": 1656.59
+    },
+    {
+      "vat": 0.08,
+      "netAmount": 600.0,
+      "vatAmount": 48.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+Wyniki badań przeprowadzonych w ramach projectu Curie
+
+scr:
+-CL zawiera skrypty pozalające na wykrywanie nieprawodłowości w operacjach bazując na klatrowaniu 
+-CS zawiera skrypty oparte na lasach losowych
+-DANE zawiera skrypty pozwalające na operacje wejści/wyjścia dla róznych fomató danych stosowanych w projekcie
+-DATAgenerator zawiera skrypty pozwalające na generowanie danych syntetycznych
+-DATAmultipication zawiera skrypty pozwalające na augmentacje danych
+-DATAselectionSWARM zawiera skrypty do optymalizacji hiperparametrów w oparciu o minimalizację bezgradientową i algorytmy inteligencji rozproszonej
+-DEMO zawiera prezentacje demo optymalizacji przydzielania pracowników do zadań i reducji czasu wykonywania zadań
+-FS zawieraz skrypty selekcji zmienych, czyszczenia danych oraz preprocesingu
+-HR zawiers skrypty automatyzacji proceów HR - rekrutacji pracowników i predykcji długości zatrudnienia 
+-JSON zawiera skrypty przetwarzania plików w formacie json
+-LR zawiera skrypty pozwalające na budowanie modeli regresyjnych
+-MULTI_MODEL zawiera skrypty pozwlające na zastosowanie modeli ensemble 
+-NN zawiera skrypty oparte na głębokich sieciach neuronowych oraz optymalizację ich architektury
+-QUEUE zawiera skrypty do opsługi kolekjkowaia zadań
+-RNN-regresion zawiera skrypty treningu modeli pozwalających na modelowanie szeregów czasowych w oparciu o rekurencyjne sieci neuronowe oraz architekturę lstm
+-SAVE_MODELS zawiera skrypty do zapiywania i wczytywania modeli
+-SERWER zawiera przykłdaową integrację modeli sztucznej inteligencji z platformą CURIE za pomocą API REST dla procesu automatyzacji wstępnej selekcji kandydatów
+-SPRZEDAZ_PLUS zawiera przykłdaową integrację modeli sztucznej inteligencji z platformą CURIE za pomocą API REST dla procesu sprzedarzy
+-TIMESERIUS zawiera przykłdaową integrację modeli sztucznej inteligencji z platformą CURIE za pomocą API REST dla predykcji szeregów czasowych
+
+dane:
+zawiera dane syntetyczne pozwalające na trenowanie modeli dla rozważanych procesów biznesowych
+
+ 

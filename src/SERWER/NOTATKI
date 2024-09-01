@@ -1,0 +1,30 @@
+Przewidywanie czasu i wybor pracownika:
+Ustawienie celu:
+curl -i -X PUT -d '{"id": "500303-3", "target":"time"}' -H"Content-Type: application/json" http://localhost:5000/set_target/
+
+uczenie:
+curl -i -X POST -d '@train.json' -H"Content-Type: application/json" http://localhost:5000/learn/
+
+przewidywaie:
+curl -i -X POST -d '@test.json' -H"Content-Type: application/json" http://localhost:5000/predict/
+
+reset koleji dla jednego procesu:
+curl -i -X PUT -d '{"id": "500303-3"}' -H"Content-Type: application/json" http://localhost:5000/resetqueue/
+
+reset wszystkich kolejek:
+curl -i -X POST -d '' -H"Content-Type: application/json" http://localhost:5000/resetqueue/
+
+Klasyfikator:
+uczenie:
+curl -i -X POST -d '@trainCL.json' -H"Content-Type: application/json" http://localhost:5000/learnCL/
+
+przewidywaie:
+curl -i -X POST -d '@testCL.json' -H"Content-Type: application/json" http://localhost:5000/predictCL/
+
+istotnosc zmiennych:
+curl -i -X POST -d '@train.json' -H"Content-Type: application/json" http://localhost:5000/feature_importances/
+
+
+Prawdopodobiestwo:
+w load_job.py
+print(models[worker].predict_proba(X))

@@ -1,0 +1,4 @@
+lstm1.py - fitting elipse with 3 layers of lstm
+lstm2.py - fitting sin with 1 layer of lstm and 2 fully conected
+lstm3.py - the same as lstm2.py with p=1
+rnn1NIE.py - haendmaid rnn for 1D

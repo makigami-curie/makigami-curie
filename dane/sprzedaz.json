@@ -1,0 +1,1001 @@
+{"tasks":[
+{"variables": [{"plec": "K"}, {"wiek": 45}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2198.75410591571}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2426.6245174817604}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 63}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2192.480177959445}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 14}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 1906.0384631978827}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 19}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3403.4424354052103}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 1407.9687231450841}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2992.993244405739}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 27}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 3115.68073018175}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1897.3738128106443}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2314.7947409421645}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2867.472355062889}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3100.449843111336}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 68}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2467.3670775111236}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 3393.8108769782184}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3521.4814949692873}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2320.677721338876}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 35}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2463.5759472318223}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2632.183766740764}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2547.644526537164}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 19}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2902.3587669958397}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2615.170337454818}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2632.08165321902}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2744.1821553522545}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 51}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3268.1544739284086}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1213.5171310891847}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 67}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 1851.555344034436}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2408.1468519244295}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 44}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2457.7164585537757}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2605.4762250402378}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2585.291463571133}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2632.3571917375007}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2097.5973622095144}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "podst"}, {"dochody": 2515.081966243878}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 68}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 1755.7122072079378}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2221.5423546814304}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2230.2163610066787}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 3049.385683022617}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2554.2034338329754}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2458.36559740394}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2408.3281583850976}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2092.5479180120033}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2081.5438463876935}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 16}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2283.5826713508063}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2433.857328826338}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2501.509781478701}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2888.7923007271565}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 50}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2821.0574056627775}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3144.371196254949}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1679.0663079136548}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2743.328392566905}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 24}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2805.3555906173106}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 3256.1437376473305}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 14}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2683.911435320464}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 63}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2106.3911089887565}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2203.8550159803162}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2593.657225188374}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 3164.8233775447}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2941.5335801515903}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 44}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3532.497616855802}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 3005.2859636654043}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2029.9752901461413}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 3137.888553795714}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1728.8522675927952}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 37}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2311.1608074088995}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 68}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1600.640321076201}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 52}, {"stan": "WOL"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "podst"}, {"dochody": 2137.2227274778284}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2222.066763398933}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 22}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2912.129461175579}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 28}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2807.6395414321473}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 24}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2727.717127380288}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2873.255269582139}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 24}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2401.210186636454}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 11}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2748.553296025898}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3335.176359712559}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 40}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2918.6867010464543}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2474.2655100101774}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2368.7426831349458}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2297.5264341631005}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2733.2976039035843}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 42}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2582.526191932735}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3273.8317526785513}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2085.925404677346}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2175.608821469601}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 26}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2033.0935838921882}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2844.491483657809}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 10}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1749.0983645159913}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1559.0267639458084}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2688.0426219601463}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2725.4858813054752}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 45}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2092.838674852307}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 44}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "podst"}, {"dochody": 3062.861621876671}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 28}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2349.170882564721}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2159.442898163815}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2118.706624026386}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 1759.3304184199048}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 24}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2037.887821933787}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 2755.198005941429}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 910.6467465723317}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 25}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2742.677359172859}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2141.601740555925}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2668.255412113339}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2964.532855107639}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1868.3498205939259}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 63}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1820.9014232071277}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 1648.8430803150559}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2769.6439419287376}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 41}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2502.6328534600766}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2656.7289414364795}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 40}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2235.4806725471453}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 28}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2377.530697727275}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 1867.9717217039617}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2488.49074093005}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 10}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2127.2045005287723}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1804.2561512541656}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 3247.998745549859}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2690.933346007509}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 23}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2242.024956599667}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 1927.0928038839265}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2439.845394122829}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 42}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2670.508076011819}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1455.289522091511}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 51}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2452.901295804223}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3121.530070049129}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2515.7295957040155}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2434.146214616376}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2175.685185443695}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 68}, {"stan": "WOL"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "zawod"}, {"dochody": 3584.0273068946594}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1994.3477648164412}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2494.356249013431}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 35}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2145.1895751574707}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 50}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2209.5397815600763}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2612.684713345073}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2468.267585762205}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2487.8193600331174}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 1934.7207433844455}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2271.870023440335}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2362.649823542184}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2253.273260187416}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 25}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2365.433625961496}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2916.2303997349823}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1938.6089571876512}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 63}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2113.9019886181827}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2731.9315041763257}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 1485.3661327573413}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2487.3452373686937}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2164.7758130732936}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 11}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 3114.6475557039944}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 28}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2169.70616502829}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2688.4641045387402}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 3150.9195977191894}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 40}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2838.5518769067057}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 1714.5544971302327}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2866.5030777815714}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 19}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 1982.3424698149745}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3871.2501945878626}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3216.6361021577577}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 10}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2561.0300989546336}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2680.9866522597167}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 67}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2230.9731318905556}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2369.330244266716}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 23}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2870.1836988693885}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 51}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2207.581850997724}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 1682.7981678539686}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2171.7172268069567}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 67}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1951.6082750517553}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2133.575214663358}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 65}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1702.7477783311565}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2799.6966991605923}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 56}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2649.1284017009475}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2551.299348341776}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2586.3240220989537}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2047.2135122377845}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2822.9867391305124}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2385.855017221214}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 41}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2407.4611397571393}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 19}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2417.7636445630037}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1495.8749622695286}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2722.1735494535947}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2351.2682596626887}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2522.3551075972346}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2547.115907588336}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2301.4215649764724}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 35}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 3137.465592859688}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "podst"}, {"dochody": 2622.2397434027484}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2921.861286058386}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 1962.9570453027566}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2435.5164402069076}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 11}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3236.117056442629}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 28}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3340.158623566876}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2790.59219548237}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2698.5292578353765}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 3094.4875705498807}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2811.64754323575}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 41}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3625.0239396243305}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 22}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1740.9379440086386}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2494.298463706272}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WOL"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "sred"}, {"dochody": 2969.0357204366524}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2172.2254467056505}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1585.2946722911056}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1829.1703941489218}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 3274.2773745005693}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 1815.8420566840687}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2729.5388500897193}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2894.295380981947}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 67}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2110.8174634499665}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 67}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2960.5303065005646}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 54}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3188.6645303716214}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2732.088548108874}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 28}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 1887.4691514123424}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 45}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2181.955386553331}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2993.0874999180232}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2628.8657914633177}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 19}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2429.75989689014}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2235.2822341133865}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "sred"}, {"dochody": 2007.2541039979342}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 24}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2358.811383276349}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 19}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2385.157141767285}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 24}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2518.1240899285112}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2613.151154846206}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2300.068103898769}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 35}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2946.5049326940493}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2920.9115864500095}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2879.469998192375}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2764.9657933673197}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 22}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3129.1937656516952}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3106.154697837169}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 39}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2399.186982538843}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 40}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2461.5734547747556}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2372.7078610487993}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2522.575476138403}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2772.163190761574}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2315.6795543319245}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2605.496304272509}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2250.5560671610324}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 45}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2412.019197835362}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 64}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2443.7406301357664}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2614.0880397568376}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2681.4800967517754}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2767.1558266270204}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1737.0836592558653}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3162.006770684682}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 10}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2145.581714853209}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 52}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2572.385311367201}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 55}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2685.1006670365055}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2988.5495196456222}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 11}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2919.1266634792873}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2196.6036286861536}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2810.050586355898}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1372.7377133227133}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2681.286118743531}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 69}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1201.2256939084866}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2016.17708025233}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 67}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2908.6266260446205}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2218.305489399046}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2739.0298685015573}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 52}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2826.385791519026}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2269.5552622633254}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2514.707377696096}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2212.74097802259}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 14}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1676.8006495757288}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2024.0807869761252}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2318.4131264282228}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 63}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3025.8666429953637}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2444.8485865715857}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 52}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1665.3431848741043}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2334.431181651193}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 3160.063789951797}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2703.103630367827}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2973.4449857264344}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2100.778044955041}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 3422.1996965340018}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 11}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2988.790639210358}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2514.797407921}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2426.9134571046698}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3097.6696709926605}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 1732.265509630049}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2513.1607047925727}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2918.5213024334557}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2890.9745600616898}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 49}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2271.476150807358}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 1608.5531101584575}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 35}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1546.8248071295384}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 51}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2268.1809460720224}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2236.791102763358}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 61}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2905.4500684948594}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2840.385387179636}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 46}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2818.0941254906093}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 51}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2359.009512257118}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 3119.097209491056}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 4223.328238004782}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2337.082014604075}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "zawod"}, {"dochody": 2359.1819578895083}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2460.3654280222217}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2311.0940713388827}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2076.5058056165753}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2551.663143729828}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2315.939994752234}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 35}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 1578.743268559017}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1802.973908832715}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 51}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2735.745151401654}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 3139.7257269084866}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 25}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "sred"}, {"dochody": 3167.978194940437}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 14}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 1976.5456089949016}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2040.4000325403813}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2583.0928520460557}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2482.3235852905555}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WOL"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "podst"}, {"dochody": 2631.0337744961002}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2767.5473412094943}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 53}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3054.353935492609}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 40}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1958.3117046783664}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2939.6677838593337}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2492.8737933281277}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2241.179751476936}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2681.602383767096}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2475.6063065564786}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2349.6857038734856}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2890.474785940135}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 19}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2695.804027699276}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2269.4289368853533}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 1764.5027879805189}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2625.486107798666}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1872.76938321349}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 44}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3178.4980857404194}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 2699.9142424883526}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2504.846340293009}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2927.4656823789114}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2796.635941755085}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 45}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2331.60212793171}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 67}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3250.4623576106637}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2460.803526310344}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2496.122885318199}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 1811.5863792745108}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1797.7218079888394}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 3904.4879472209905}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3908.6378126528452}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 45}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2767.2381833146965}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 22}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2359.992790162072}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 68}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2469.949753622281}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2090.212747212663}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 34}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2123.8847656308617}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 3384.8737502860367}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 15}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2016.8159490103108}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2751.1030234713035}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2834.230437540723}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2441.124495733573}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 22}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2921.969601237965}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2247.3917993838504}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 52}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2130.2924520857823}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 37}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3424.499183095782}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2872.43998131586}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2991.288444986695}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2617.196880254339}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 1648.8487483363933}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2873.5282853655854}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 52}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2715.602816210483}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2814.2634024602053}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2462.2060425004224}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2527.7500040633818}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2190.680147655141}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2461.128377932381}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 15}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2445.253198737732}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 68}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2005.7343007684567}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2165.0162587908035}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 1426.4696549191483}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 46}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1624.5295306979797}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3011.6562903040667}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 11}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 3015.4737763075727}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3304.5919378233534}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 13}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2752.961704360704}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2269.1898927309985}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 20}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3959.0320283586107}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 3169.517299977593}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2004.7027130606582}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2515.056875074219}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2196.3159909574556}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 42}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 599.3890709288848}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2219.7108811577136}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 3248.808907253763}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2593.6239267300843}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2212.548487311764}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 54}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3311.2826250442795}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1800.2827898712328}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2360.7369115692827}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2824.6040922786933}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 31}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2224.518321668358}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 2716.2247994907657}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2433.422831514057}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1474.7688224796173}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 40}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 3138.118074473282}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2340.2587105569582}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 44}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2464.4111136751435}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 45}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2187.402584495285}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2562.641191433218}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 1267.1923033331193}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "sred"}, {"dochody": 2237.688852132875}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2014.2985598226207}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2362.5983375229466}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2824.153413803986}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2742.2531371987798}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 1748.2632372541611}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2611.575653306328}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 59}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2782.103095058338}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 20}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2806.2446886950993}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1651.670525698269}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 18}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2339.6098586635326}, {"zameldowanie": "srednie"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 14}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2777.716824163426}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 10}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2518.469370746899}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2427.864442368298}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2297.131930606024}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2846.5909772130635}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 3118.4936947977685}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2509.254935566366}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 33}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2248.06785480518}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2505.385852537452}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 36}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2123.54457614829}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 65}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 1362.2383741664569}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 64}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 3550.6462687049607}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 34}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2721.910985068143}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 59}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2913.545091781459}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2259.029998327479}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 29}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "podst"}, {"dochody": 2350.112448719239}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2685.6384219545703}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2233.5652538355694}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1930.846142449336}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 45}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 2953.6405942196398}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 61}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2569.2543847509005}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2439.7894987153886}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 11}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2623.4927176527913}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 1375.6633067926452}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 3065.5366065147286}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 52}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2633.114228798902}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1881.1769030547991}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2714.776825189732}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 24}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2571.940343523169}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 12}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 3214.0124028902346}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2437.023918875488}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 53}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2145.0154938394508}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2147.1217608776615}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2235.503908662125}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 28}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "podst"}, {"dochody": 2218.080805407134}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2333.70499248078}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 38}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2926.375028561719}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 67}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2672.2359241158733}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2706.120916582441}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2143.3357229719713}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 63}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2886.338699596374}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 39}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2780.2297238603114}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2595.6241708440684}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WZW"}, {"osoby_na_utrz": 5}, {"wyksztalcenie": "sred"}, {"dochody": 2810.2179739535754}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 62}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2173.45600962413}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 69}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2117.9865176765215}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 57}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2059.132545847521}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 25}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 1610.3739731380647}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 14}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2116.403135833451}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 13}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 3260.616722463821}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 26}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2899.943036261444}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 41}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2915.485506088417}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 3264.0338066522954}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 56}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2905.7512318271024}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 4217.054549663671}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 49}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2878.6051738656556}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 46}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2742.8526499673203}, {"zameldowanie": "srednie"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2543.9264694643844}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2512.3495534432145}, {"zameldowanie": "Warszawa"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 14}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2324.6485698584524}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2547.5110201727493}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "podst"}, {"dochody": 1596.5239677034656}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 50}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2440.0888475935863}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 22}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2876.3424394875897}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 25}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2620.8147184801282}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 58}, {"stan": "WZW"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 2456.8723767178712}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 60}, {"stan": "WOL"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "zawod"}, {"dochody": 2475.971642813006}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 26}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2865.1304182130193}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 2800.3452215130947}, {"zameldowanie": "Warszawa"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 26}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2257.9140639721536}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 65}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "zawod"}, {"dochody": 2073.8858880563907}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 17}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "wyzsze"}, {"dochody": 2448.5098144490885}, {"zameldowanie": "duze"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 27}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2987.048373809616}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 43}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 2386.338310997818}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 64}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "zawod"}, {"dochody": 2950.6553055837403}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 48}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "podst"}, {"dochody": 3580.8011535426813}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 66}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2461.513688251729}, {"zameldowanie": "duze"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 47}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 1396.2462003437338}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 25}, {"stan": "WOL"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2586.1081229298293}, {"zameldowanie": "Warszawa"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 44}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "wyzsze"}, {"dochody": 3207.4450307361744}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 23}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2801.6961973669904}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 16}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "sred"}, {"dochody": 2634.5854412810013}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 41}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2333.2823322220484}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 55}, {"stan": "WOL"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 2277.960873516528}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 21}, {"stan": "WOL"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2548.464134685959}, {"zameldowanie": "wies"}, {"samochod": "Nie"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 55}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 1919.8958419081837}, {"zameldowanie": "srednie"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 29}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "zawod"}, {"dochody": 2787.821077786067}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 32}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "sred"}, {"dochody": 2717.8018358463205}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 60}, {"stan": "WZW"}, {"osoby_na_utrz": 2}, {"wyksztalcenie": "podst"}, {"dochody": 1883.8714014366942}, {"zameldowanie": "male"}, {"samochod": "Nie"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 30}, {"stan": "WZW"}, {"osoby_na_utrz": 3}, {"wyksztalcenie": "podst"}, {"dochody": 2078.325783770421}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 54}, {"stan": "WZW"}, {"osoby_na_utrz": 1}, {"wyksztalcenie": "sred"}, {"dochody": 2713.3798789160655}, {"zameldowanie": "duze"}, {"samochod": "stary"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 51}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "sred"}, {"dochody": 3177.288331409163}, {"zameldowanie": "male"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 65}, {"stan": "WZW"}, {"osoby_na_utrz": 0}, {"wyksztalcenie": "podst"}, {"dochody": 3087.7244271935415}, {"zameldowanie": "wies"}, {"samochod": "nowy"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "K"}, {"wiek": 34}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "sred"}, {"dochody": 1824.2464020696534}, {"zameldowanie": "wies"}, {"samochod": "stary"}, {"zatrudnienie": "Tak"}, {"KUPNO": 0}]}
+,
+{"variables": [{"plec": "M"}, {"wiek": 22}, {"stan": "WOL"}, {"osoby_na_utrz": 4}, {"wyksztalcenie": "zawod"}, {"dochody": 3329.140727437331}, {"zameldowanie": "male"}, {"samochod": "nowy"}, {"zatrudnienie": "Nie"}, {"KUPNO": 1}]}
+], "id":1}

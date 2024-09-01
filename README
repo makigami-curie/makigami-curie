@@ -1,6 +1,6 @@
-Wyniki badań przeprowadzonych w ramach projectu Curie
+# Wyniki badań przeprowadzonych w ramach projectu Curie
 
-scr:
+## scr:
 -CL zawiera skrypty pozalające na wykrywanie nieprawodłowości w operacjach bazując na klatrowaniu 
 -CS zawiera skrypty oparte na lasach losowych
 -DANE zawiera skrypty pozwalające na operacje wejści/wyjścia dla róznych fomató danych stosowanych w projekcie
@@ -21,7 +21,7 @@ scr:
 -SPRZEDAZ_PLUS zawiera przykłdaową integrację modeli sztucznej inteligencji z platformą CURIE za pomocą API REST dla procesu sprzedarzy
 -TIMESERIUS zawiera przykłdaową integrację modeli sztucznej inteligencji z platformą CURIE za pomocą API REST dla predykcji szeregów czasowych
 
-dane:
+## dane:
 zawiera dane syntetyczne pozwalające na trenowanie modeli dla rozważanych procesów biznesowych
 
  
